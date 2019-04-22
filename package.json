@@ -1,0 +1,30 @@
+{
+  "name": "nodejsexpresslearning",
+  "version": "1.0.0",
+  "description": "Node.JS - learning Express framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alex150Rus/NodeJsExpressLearning.git"
+  },
+  "keywords": [
+    "node.js framework express"
+  ],
+  "author": "Alex Medvedev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alex150Rus/NodeJsExpressLearning/issues"
+  },
+  "homepage": "https://github.com/Alex150Rus/NodeJsExpressLearning#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cheerio": "^1.0.0-rc.3",
+    "consolidate": "^0.15.1",
+    "express": "^4.16.4",
+    "handlebars": "^4.1.2",
+    "request": "^2.88.0"
+  }
+}
